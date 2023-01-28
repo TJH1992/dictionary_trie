@@ -1,0 +1,24 @@
+# ninja log v5
+5	404	1674752421111994257	CMakeFiles/countprefix.dir/countprefix.cpp.o	98cb4799902793d9
+2	426	1674752818453628499	CMakeFiles/countprefix.dir/main.cpp.o	5993b6e0d23562b7
+3	438	1674752818465501483	CMakeFiles/countprefix.dir/dictionary.cpp.o	ca9321745b8e92db
+1	114	1674593165526396274	build.ninja	a8a65ab911a986d2
+0	6	0	clean	3c8e6cc385ee00ba
+437	478	1674752726228609744	countprefix	e6e5185b708bd472
+1	296	1674752865213953769	CMakeFiles/countprefix.dir/countprefix.cpp.o	98cb4799902793d9
+296	338	1674752865258143275	countprefix	e6e5185b708bd472
+2	387	1674752924493849181	CMakeFiles/countprefix.dir/main.cpp.o	5993b6e0d23562b7
+3	399	1674752924506058954	CMakeFiles/countprefix.dir/dictionary.cpp.o	ca9321745b8e92db
+1	284	1674752940892290282	CMakeFiles/countprefix.dir/countprefix.cpp.o	98cb4799902793d9
+284	325	1674752940938181317	countprefix	e6e5185b708bd472
+0	20	0	clean	3c8e6cc385ee00ba
+0	5	0	clean	3c8e6cc385ee00ba
+2	634	1674757269093259885	CMakeFiles/countprefix.dir/main.cpp.o	5993b6e0d23562b7
+2	644	1674757269099987626	CMakeFiles/countprefix.dir/countprefix.cpp.o	98cb4799902793d9
+2	645	1674757269101226499	CMakeFiles/countprefix.dir/dictionary.cpp.o	ca9321745b8e92db
+645	788	1674757269250258707	countprefix	e6e5185b708bd472
+1	13	0	clean	3c8e6cc385ee00ba
+3	692	1674762864344446388	CMakeFiles/countprefix.dir/countprefix.cpp.o	98cb4799902793d9
+2	693	1674762864334153049	CMakeFiles/countprefix.dir/main.cpp.o	5993b6e0d23562b7
+3	693	1674762864344545430	CMakeFiles/countprefix.dir/dictionary.cpp.o	ca9321745b8e92db
+693	816	1674762864479852218	countprefix	e6e5185b708bd472
